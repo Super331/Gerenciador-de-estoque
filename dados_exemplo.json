@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Café especial 250 g",
+    "sku": "CAF-250",
+    "category": "Mercearia",
+    "initial_quantity": 18,
+    "minimum_quantity": 5
+  },
+  {
+    "name": "Caneca de cerâmica",
+    "sku": "CAN-001",
+    "category": "Utilidades",
+    "initial_quantity": 4,
+    "minimum_quantity": 5
+  },
+  {
+    "name": "Caderno pautado A5",
+    "sku": "CAD-A5",
+    "category": "Papelaria",
+    "initial_quantity": 0,
+    "minimum_quantity": 3
+  },
+  {
+    "name": "Luminária de mesa",
+    "sku": "LUM-010",
+    "category": "Casa",
+    "initial_quantity": 7,
+    "minimum_quantity": 2
+  },
+  {
+    "name": "Estojo de algodão",
+    "sku": "EST-002",
+    "category": "Papelaria",
+    "initial_quantity": 3,
+    "minimum_quantity": 3
+  }
+]
